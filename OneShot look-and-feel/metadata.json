@@ -1,0 +1,28 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "capYT_bussiness@outlook.com",
+                "Name": "capYT"
+            }
+        ],
+        "Category": "Plasma Look And Feel",
+        "Description": "OneShot World Machine Edition by Future Cat Games | theme made off of Commonality Gris by Mark Whittaker",
+        "EnabledByDefault": true,
+        "Id": "OneShot",
+        "License": "GPL 2+",
+        "Name": "OneShot",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0",
+        "Website": ""
+    },
+    "X-KPackage-Dependencies": [
+    "kns://aurorae.knsrc/api.kde-look.org/2278715",
+    "kns://colorschemes.knsrc/api.kde-look.org/2278717",
+    "kns://plasma-themes.knsrc/api.kde-look.org/2278716",
+    "kns://wallpaper.knsrc/api.kde-look.org/2278713"
+    ]
+}

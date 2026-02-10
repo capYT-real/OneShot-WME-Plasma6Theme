@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "capYT_bussiness@outlook.com",
+                "Name": "capYT"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "ServiceTypes": [
+            "Plasma/Theme"
+        ],
+        "EnabledByDefault": true,
+        "Name": "OneShot",
+        "Description": "OneShot World Machine Edition by Future Cat Games | theme made off of Commonality Gris by Mark Whittaker",
+        "Id": "OneShot",
+        "Version": "1.0",
+        "License": "GPL-2.0+",
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}

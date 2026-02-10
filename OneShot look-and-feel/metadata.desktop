@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=OneShot World Machine Edition by Future Cat Games | theme made off of Commonality Gris by Mark Whittaker
+Name=OneShot
+X-KDE-PluginInfo-Author=capYT
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=capYT_bussiness@outlook.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL 2+
+X-KDE-PluginInfo-Name=OneShot
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://aurorae.knsrc/api.kde-look.org/2278715,kns://colorschemes.knsrc/api.kde-look.org/2278717,kns://plasma-themes.knsrc/api.kde-look.org/2278716,kns://wallpaper.knsrc/api.kde-look.org/2278713
