@@ -3,6 +3,7 @@ game by Future Cat Games
 theme by capYT
 
 theme based on Commonality gris Gris by Mark Whittaker
+https://www.opencode.net/phob1an/commonality
 
 to install:
 move "OneShot aurorae theme" to "~/.local/share/aurorae/" and rename it to "OneShot"
